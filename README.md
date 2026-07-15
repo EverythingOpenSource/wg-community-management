@@ -5,7 +5,7 @@ Welcome to the Everything Open Source Community Management Working Group!
 This is the home for everyone in the Everything Open Source community who is passionate about building, growing, and sustaining open-source 
 communities. This is where we meet, share resources, document our processes, collaborate on projects, and support each other's growth as community builders and managers.
 
-Whether you are just getting started in community management or have years of experience, you are welcome here. Open source is built by 
+If you are just getting started in community management or have years of experience, you are welcome here. Open source is built by 
 people, and this Working Group exists to make sure those people are supported, celebrated, and set up to thrive.
 
 ---
