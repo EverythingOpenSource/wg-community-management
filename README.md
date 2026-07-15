@@ -205,7 +205,7 @@ One of our most important projects this year is laying the groundwork for new Wo
 Everything Open Source runs regular sprints where contributors work alongside open-source project maintainers. Community management is a meaningful sprint contribution domain and this Working Group actively supports sprint participants who want to contribute in this area.
 [Learn more about sprints →](https://github.com/EverythingOpenSource/community#programs)
 
-Please read our [CONTRIBUTING.md](./CONTRIBUTING.md) before making your first contribution.
+Please read our [CONTRIBUTING.md](https://github.com/EverythingOpenSource/wg-community-management/blob/main/contributing.md) before making your first contribution.
 
 ---
 
