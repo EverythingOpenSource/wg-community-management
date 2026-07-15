@@ -1,6 +1,6 @@
-# Everything Open Source — Community Management Workgroup
+# Everything Open Source — Community Management Working Group
 
-Welcome to the Everything Open Source Community Management Workgroup! 🎉
+Welcome to the Everything Open Source Community Management Working Group! 🎉
 
 This is the home for everyone in the Everything Open Source community 
 who is passionate about building, growing, and sustaining open-source 
@@ -10,16 +10,16 @@ as community builders and managers.
 
 Whether you are just getting started in community management or have 
 years of experience, you are welcome here. Open source is built by 
-people, and this workgroup exists to make sure those people are 
+people, and this Working Group exists to make sure those people are 
 supported, celebrated, and set up to thrive.
 
 ---
 
 ## 📌 Table of Contents
 
-- [About This Workgroup](#about-this-workgroup)
+- [About This Working Group](#about-this-Working Group)
 - [Who This Is For](#who-this-is-for)
-- [Workgroup Leads](#workgroup-leads)
+- [Working Group Leads](#Working Group-leads)
 - [How to Join](#how-to-join)
 - [How We Meet](#how-we-meet)
 - [What We Work On](#what-we-work-on)
@@ -32,9 +32,9 @@ supported, celebrated, and set up to thrive.
 
 ---
 
-## About This Workgroup
+## About This Working Group
 
-The Community Management Workgroup is a domain-focused space within 
+The Community Management Working Group is a domain-focused space within 
 the Everything Open Source community for contributors interested in 
 the human side of open source — building communities, supporting 
 contributors, managing engagement, and creating spaces where people 
@@ -48,13 +48,13 @@ We exist to:
   open-source communities effectively
 - Support contributors who want to grow their skills in community 
   management, developer relations, and contributor experience
-- Lay the foundation for the Everything Open Source workgroup 
-  ecosystem by piloting the workgroup model in 2026
+- Lay the foundation for the Everything Open Source Working Group 
+  ecosystem by piloting the Working Group model in 2026
 - Build a body of knowledge and a set of reusable resources that 
-  will help launch and sustain new workgroups across other domains 
+  will help launch and sustain new Working Groups across other domains 
   in 2027 and beyond
 
-This workgroup is not just about community management as a discipline. 
+This Working Group is not just about community management as a discipline. 
 It is also about building the Everything Open Source community itself. 
 The work we do here directly shapes how contributors experience open 
 source across Africa and beyond.
@@ -63,7 +63,7 @@ source across Africa and beyond.
 
 ## Who This Is For
 
-This workgroup is open to anyone interested in community management 
+This Working Group is open to anyone interested in community management 
 and the human side of open source, including:
 
 - Community managers and community builders
@@ -84,16 +84,16 @@ about people and want to help build something meaningful, you belong here.
 
 ---
 
-## Workgroup Leads
+## Working Group Leads
 
 | Name | GitHub | Role |
 |---|---|---|
-| *(Lead name)* | [@handle](https://github.com/handle) | Workgroup Lead |
-| *(Co-lead name)* | [@handle](https://github.com/handle) | Workgroup Co-Lead |
+| *(Lead name)* | [@handle](https://github.com/handle) | Working Group Lead |
+| *(Co-lead name)* | [@handle](https://github.com/handle) | Working Group Co-Lead |
 
-The workgroup leads are responsible for facilitating meetings, 
+The Working Group leads are responsible for facilitating meetings, 
 welcoming new members, keeping the repository active, and connecting 
-the workgroup to the broader Everything Open Source community.
+the Working Group to the broader Everything Open Source community.
 
 Want to become a lead or co-lead? Open a discussion and let us know.
 
@@ -104,13 +104,13 @@ Want to become a lead or co-lead? Open a discussion and let us know.
 Joining is simple and open to everyone. Here is how to get started:
 
 1. **Star and watch this repository** so you stay updated on 
-   everything happening in the workgroup
+   everything happening in the Working Group
 2. **Introduce yourself** by opening a new GitHub Discussion under 
    the [Introductions](../../discussions/categories/introductions) 
    category — tell us who you are, what draws you to community 
    management, and what you are hoping to learn or contribute
 3. **Join our Discord channel** at *(add Discord channel link)* 
-   where the workgroup connects in real time
+   where the Working Group connects in real time
 4. **Attend a meeting** — check the meeting schedule below and 
    show up to the next one
 
@@ -145,7 +145,7 @@ an issue using the [Meeting Agenda template](../../issues/new/choose).
 
 ## What We Work On
 
-The Community Management Workgroup focuses on the following areas:
+The Community Management Working Group focuses on the following areas:
 
 **Building and sustaining open-source communities**
 We explore what makes open-source communities healthy, welcoming, 
@@ -161,12 +161,12 @@ and confidently.
 We explore strategies for keeping contributors engaged, recognized, 
 and motivated beyond their first contribution.
 
-**Workgroup development**
+**Working Group development**
 A major focus for 2026 is building and documenting the Everything 
-Open Source workgroup model so that it can be replicated across 
-new domains in 2027. We are not just running a workgroup, we are 
+Open Source Working Group model so that it can be replicated across 
+new domains in 2027. We are not just running a Working Group, we are 
 designing the blueprint for how all Everything Open Source 
-workgroups will operate.
+Working Groups will operate.
 
 **Community management as a career**
 We create resources and conversations that support people who 
@@ -177,11 +177,11 @@ a professional path.
 
 | Project | Description | Status | Lead |
 |---|---|---|---|
-| Workgroup Blueprint | Documenting the EOS workgroup model for 2027 rollout | 🟢 Active | *(Name)* |
+| Working Group Blueprint | Documenting the EOS Working Group model for 2027 rollout | 🟢 Active | *(Name)* |
 | Onboarding Playbook | A reusable onboarding framework for new contributors | 🟢 Active | *(Name)* |
 | Community Health Metrics | Defining how we measure community health at EOS | 🟡 Planning | *(Name)* |
 | CM Resource Library | A curated library of community management resources | 🟡 Planning | *(Name)* |
-| 2027 Workgroup Roadmap | Planning the launch of new domain workgroups in 2027 | ⚪ Proposed | *(Name)* |
+| 2027 Working Group Roadmap | Planning the launch of new domain Working Groups in 2027 | ⚪ Proposed | *(Name)* |
 
 Want to propose a new project? Open an issue using the 
 [Project Proposal template](../../issues/new/choose).
@@ -191,27 +191,27 @@ Want to propose a new project? Open an issue using the
 ## Our 2026 Goals
 
 2026 is a foundational year for the Everything Open Source 
-workgroup ecosystem. The Community Management Workgroup is the 
-first workgroup we are launching, and one of our most important 
+Working Group ecosystem. The Community Management Working Group is the 
+first Working Group we are launching, and one of our most important 
 responsibilities this year is to prove the model works.
 
 Here is what we are working toward in 2026:
 
-**Build a thriving, active workgroup**
+**Build a thriving, active Working Group**
 - Establish a consistent meeting cadence and maintain it 
   throughout the year
-- Grow workgroup membership to *(add target number)* active members
+- Grow Working Group membership to *(add target number)* active members
 - Publish meeting notes for every session without exception
-- Celebrate and recognize workgroup contributors regularly
+- Celebrate and recognize Working Group contributors regularly
 
-**Document the workgroup model**
-- Build a comprehensive workgroup blueprint that captures 
-  everything we learn about running an effective workgroup at 
+**Document the Working Group model**
+- Build a comprehensive Working Group blueprint that captures 
+  everything we learn about running an effective Working Group at 
   Everything Open Source
 - Create reusable templates, frameworks, and guides that can 
-  be used to launch new workgroups in 2027
+  be used to launch new Working Groups in 2027
 - Document what works, what does not, and what we would do 
-  differently so future workgroup leads have a head start
+  differently so future Working Group leads have a head start
 
 **Build a community management resource library**
 - Curate and publish a library of high-quality community 
@@ -232,7 +232,7 @@ Here is what we are working toward in 2026:
 
 ## How to Contribute
 
-There are many ways to contribute to this workgroup beyond 
+There are many ways to contribute to this Working Group beyond 
 attending meetings:
 
 **Share resources**
@@ -247,16 +247,16 @@ pull request with your additions or improvements.
 
 **Share your experience**
 Have you managed or built a community before? Share your 
-experience, lessons learned, and frameworks with the workgroup. 
+experience, lessons learned, and frameworks with the Working Group. 
 Even a short write-up or a discussion thread can be enormously 
 valuable to others.
 
 **Lead or co-lead a meeting**
-Volunteer to facilitate an upcoming meeting. Let the workgroup 
+Volunteer to facilitate an upcoming meeting. Let the Working Group 
 leads know in Discord or open a discussion.
 
 **Propose and lead a project**
-Have an idea for something the workgroup should build, document, 
+Have an idea for something the Working Group should build, document, 
 or explore? Open a 
 [Project Proposal issue](../../issues/new/choose) and share 
 your thinking.
@@ -267,9 +267,9 @@ someone newer to the field. A conversation, a resource
 recommendation, or a quick introduction can open doors for someone 
 just starting out.
 
-**Help build the 2027 workgroup roadmap**
+**Help build the 2027 Working Group roadmap**
 One of our most important projects this year is laying the 
-groundwork for new workgroups launching in 2027. If you have 
+groundwork for new Working Groups launching in 2027. If you have 
 ideas about which domains should be prioritized or want to help 
 plan the expansion, get involved in this project.
 
@@ -277,7 +277,7 @@ plan the expansion, get involved in this project.
 Everything Open Source runs regular sprints where contributors 
 work alongside open-source project maintainers. Community 
 management is a meaningful sprint contribution domain and this 
-workgroup actively supports sprint participants who want to 
+Working Group actively supports sprint participants who want to 
 contribute in this area.
 [Learn more about sprints →](https://github.com/EverythingOpenSource/community#programs)
 
@@ -336,14 +336,14 @@ manager and open-source community builder:
 
 ## Community Guidelines
 
-This workgroup is part of the Everything Open Source community 
+This Working Group is part of the Everything Open Source community 
 and operates under our shared 
 [Code of Conduct](./CODE_OF_CONDUCT.md).
 
 We are committed to maintaining a welcoming, respectful, and 
 inclusive space for everyone regardless of experience level, 
 background, or identity. This is especially important in a 
-workgroup focused on community management, where how we treat 
+Working Group focused on community management, where how we treat 
 each other is itself a demonstration of the values we are 
 trying to build.
 
@@ -356,7 +356,7 @@ with confidentiality and care.
 
 ## Stay Connected
 
-- 💬 Discord: *(add workgroup channel link)*
+- 💬 Discord: *(add Working Group channel link)*
 - 💻 GitHub Discussions: [Start or join a conversation](../../discussions)
 - 🌍 Everything Open Source Website: [everythingopensource.my.canva.site](https://everythingopensource.my.canva.site)
 - 💻 Everything Open Source GitHub: [github.com/EverythingOpenSource](https://github.com/EverythingOpenSource)
@@ -367,9 +367,9 @@ with confidentiality and care.
 
 ---
 
-*The Community Management Workgroup is the foundation of the 
-Everything Open Source workgroup ecosystem. What we build here 
-in 2026 will shape how every workgroup that follows is designed, 
+*The Community Management Working Group is the foundation of the 
+Everything Open Source Working Group ecosystem. What we build here 
+in 2026 will shape how every Working Group that follows is designed, 
 launched, and sustained. Thank you for being part of this from 
 the very beginning.*
 
